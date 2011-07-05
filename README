@@ -1,0 +1,19 @@
+###################################################################
+#
+#  Research Assistant
+#
+#	Created by Michael Mohler
+#	University of North Texas
+#	July 5th, 2011
+###################################################################
+
+Research Assistant is a tool to manage research projects by encoding
+the dependencies between datasets, individual files, feature vectors,
+and statistics.
+
+It will (hopefully) be used to partition datasets, distribute work to
+multiple computers on a network, ensure data consistency, and allow
+a researcher to move from one dataset to another more easily.
+
+At the moment, this is a pipe dream. But I see it.
+
